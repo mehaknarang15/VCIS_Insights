@@ -33,4 +33,4 @@ For questions or suggestions, feel free to reach out to:
 
 **Kushagra Verma**
 
-[Email](mailto:mehaknarang1512@gmail.com)
+[Email](mailto:reachingkushagra@gmail.com)
