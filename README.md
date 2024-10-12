@@ -18,7 +18,7 @@ This project involves the following steps:
 
 ## Dataset
 The dataset used for this project is obtained from the VCIS GD Schedules.
-It contains 2186 rows and columns in the dataset include:
+The dataset contains 2186 rows and 4 columns that are:
 1. S.No.
 2. Name of Applicant
 3. UG/PG Program
@@ -26,7 +26,9 @@ It contains 2186 rows and columns in the dataset include:
 
 ## Contact
 For questions or suggestions, feel free to reach out to: 
-*Mehak Narang* 
+**Mehak Narang**
+
 [Email](mailto:mehaknarang1512@gmail.com)
-*Kushagra Verma*
+**Kushagra Verma**
+
 [Email](mailto:mehaknarang1512@gmail.com)
