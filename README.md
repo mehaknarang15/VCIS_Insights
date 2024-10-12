@@ -26,9 +26,11 @@ The dataset contains 2186 rows and 4 columns that are:
 
 ## Contact
 For questions or suggestions, feel free to reach out to: 
+
 **Mehak Narang**
 
 [Email](mailto:mehaknarang1512@gmail.com)
+
 **Kushagra Verma**
 
 [Email](mailto:mehaknarang1512@gmail.com)
